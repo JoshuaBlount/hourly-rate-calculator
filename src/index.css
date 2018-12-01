@@ -13,4 +13,8 @@ code {
     monospace;
 }
 
-label {margin-right: .5rem;}
+form {margin: 1rem;}
+.form-group {margin-bottom: .5rem; width: 164px;}
+.form-group:nth-child(2) {border-bottom: 1px solid #999; padding-bottom: .5rem;}
+.form-group input {width: 50px; font-size: 1rem;}
+label {width: 100px; display: inline-block; margin-right: .5rem;}
